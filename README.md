@@ -65,6 +65,17 @@ Here are screenshots that show the E-commerce demo application in use.
 ![Screenshot 2024-06-22 193557](https://github.com/Asodariyasujal/E-commerce/assets/142427296/1dd22280-f865-451d-addf-9fa3c6ad62e9)
 ![Screenshot 2024-06-22 193609](https://github.com/Asodariyasujal/E-commerce/assets/142427296/fea67f30-37f7-4494-8d73-534e70284713)
 
+## Tech Stack
+* HTML
+* CSS
+* REACT.JS
+* NODE.JS
+* REDUX
+* MONGODB
+* EXPRESS.JS
+* JWTTOKEN AUTHENTICATION
+  
+
 
 
 
