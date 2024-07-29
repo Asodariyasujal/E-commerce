@@ -76,7 +76,7 @@ Here are screenshots that show the E-commerce demo application in use.
 * JWTTOKEN AUTHENTICATION
 
  
- e-commerce-yuxb3av5j-asodariya-sujals-projects.vercel.app
+https://e-commerce-yuxb3av5j-asodariya-sujals-projects.vercel.app
   
 
 
